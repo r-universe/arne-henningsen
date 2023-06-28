@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "micEcon"]
 	path = micEcon
 	url = https://github.com/cran/micEcon
-	shallow = true
-	registered = true
 [submodule "micEconAids"]
 	path = micEconAids
 	url = https://github.com/cran/micEconAids
-	shallow = true
-	registered = true
 [submodule "micEconIndex"]
 	path = micEconIndex
 	url = https://github.com/cran/micEconIndex
-	shallow = true
-	registered = true
 [submodule "micEconSNQP"]
 	path = micEconSNQP
 	url = https://github.com/cran/micEconSNQP
-	shallow = true
-	registered = true
 [submodule "miscTools"]
 	path = miscTools
 	url = https://github.com/arne-henningsen/misctools
-	shallow = true
-	registered = true
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
-	shallow = true
-	registered = true
 [submodule "sampleSelection"]
 	path = sampleSelection
 	url = https://github.com/cran/sampleSelection
-	shallow = true
-	registered = true

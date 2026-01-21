@@ -20,9 +20,6 @@
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
-[submodule "sampleSelection"]
-	path = sampleSelection
-	url = https://github.com/cran/sampleSelection
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/arne-henningsen/urbin

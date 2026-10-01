@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "maxLik"]
+	path = maxLik
+	url = https://github.com/arne-henningsen/maxlik
 [submodule "micEcon"]
 	path = micEcon
 	url = https://github.com/cran/micEcon
@@ -17,9 +20,6 @@
 [submodule "miscTools"]
 	path = miscTools
 	url = https://github.com/arne-henningsen/misctools
-[submodule "mvProbit"]
-	path = mvProbit
-	url = https://github.com/cran/mvProbit
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/arne-henningsen/urbin
